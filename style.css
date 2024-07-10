@@ -24,9 +24,10 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    /* padding: 38px 150px; */
+    padding: 30px 0px;
     margin: 0 200px;
     background: white;
+
 }
 nav>h1{
     font-size: 28px;
@@ -182,7 +183,7 @@ main{
     margin: 0 190px;
     padding: 32px 0px;
     border-radius:18px; 
-    background-color: #faf9f9;
+    background-color: #fffdfd;
 }
 #Iframe-Div>iframe{
     box-sizing: border-box;
